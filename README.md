@@ -1,5 +1,53 @@
 # Hostel96
 
+## Screenshots
+
+- **Landing Page**:
+  - ![Landing Page](screenshot/LandingPage.png)
+
+- **Sign Up Page**:
+  - ![Sign Up Page](screenshot/AccountSection.png)
+
+- **Login Page**:
+  - ![Login Page](screenshot/LoginPage.png)
+
+- **Home Dashboard**:
+  - ![Home Dashboard](screenshot/CityPage.png)
+
+- **All City Page**:
+  - ![All City Page](screenshot/CityWise.png)
+
+- **List of Hostels**:
+  - ![List of Hostels](screenshot/HostelDetail.png)
+
+- **Hostel Detail Page**:
+  - ![Hostel Detail Page](screenshot/HostelDetail.png)
+
+- **Booking Page**:
+  - ![Booking Page](screenshot/BookingPage.png)
+
+- **User Profile Page**:
+  - ![User Profile Page](screenshot/AccountSection.png)
+
+- **My Bookings Page**:
+  - ![My Bookings Page](screenshot/BookingPage.png)
+
+- **Booking Confirmation Page**:
+  - ![Booking Confirmation Page](screenshot/CancellationPolicy.png)
+
+- **Edit Profile Page**:
+  - ![Edit Profile Page](screenshot/PrivacyPolicy.png)
+
+- **App Bar and Navigation Bar**:
+  - ![App Bar and Navigation Bar](screenshot/SearchByCity.png)
+
+- **Share App Page**:
+  - ![Share App Page](screenshot/ShareAppPage.png)
+
+- **Term and Condition**:
+  - ![Term and Condition](screenshot/TermAndcondition.png)
+
+
 ## User Journey and Interface Design
 
 ### 1. Initial Access and Authentication
